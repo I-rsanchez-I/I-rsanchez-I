@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
- <img src="https://github.com/I-rsanchez-I/I-rsanchez-I/img/login%20colegio.png">
+ <img src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" wight=400 px>
 
 
 </div>
