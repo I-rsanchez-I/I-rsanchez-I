@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**<h1 align="center"><b>Bienvenido</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Bienvenido a mi perfil</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <br>
 
@@ -75,38 +75,29 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Trabajos Realizados </b>
 <br>
-<b></b>Sistema de control de calificaciones.</b><br/>
-<div class="container" align="center">
-    <div class="row">
-        <div class="col-md-6">
-            <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
-        </div>
-        <div class="col-md-6">
-            <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 50%;">
-        </div>
-    </div>
+<b></b>Sistema de control de calificaciones.</b><br>
+<div align="center">
+  <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
+  <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 50%;">
+</div>
+<b></b>Sistema de gestion de activos fijos.</b><br>
+<div align="center">
+  <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20tienda.png" style="max-width: 50%;">
+  <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/tienda%201.png" style="max-width: 50%;">
+   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/tiendas%202.png" style="max-width: 50%;">
 </div>
 
-
-
-
-<br>
-<br>
 <br>
 
 -----
 
 <br>
-<br>
-
-<br>
 
 <div align='center'>
-
 ## <b>Rick Sanchez✨</b>
 
 </div>
 <br>
 <br>
 <br>
-<br>**
+<br>
