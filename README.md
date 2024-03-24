@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Habilidades técnicas</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>🔋 Habilidades técnicas</b>
 <br>
 
 <p align="center">
@@ -39,14 +39,14 @@ Here are some ideas to get you started:
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+
 
 - **Otros**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Host Gator](https://img.shields.io/badge/HostGator%20Pages-%23327FC7.svg?style=for-the-badge&logo=HostGator&logoColor=white)
     
-<br>
+
 
 - **Softwares y herramientas**:
 
@@ -63,16 +63,16 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos destacados </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🚧 Proyectos destacados </b>
 <br>
-<b>Sistema de control de calificaciones.</b>
+<b>🏫 Sistema de control de calificaciones 🏫</b>
 <br><br>
 <div align="center">
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 50%;">
 </div>
 <br>
-<b>Sistema de gestion de activos fijos.</b>
+<b>🛍️ Sistema de gestion de activos fijos 🛍️</b>
 <br><br>
 <div align="center">
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20tienda.png" style="max-width: 50%;">
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
    <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/tiendas%202.png" style="max-width: 50%;">
 </div>
 <br>
-<b>Sistema de documentacion</b>
+<b>📃 Sistema de documentacion 📃</b>
 <br><br>
 <div align="center">
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/env1.png" style="max-width: 50%;">
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/env3.png" style="max-width: 50%;">
 </div>
 <br>
-<b>Sistema de Farmacia</b>
+<b>⚕️ Sistema de Farmacia ⚕️</b>
 <br><br>
 <div align="center">
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/Farmacia%20login.png" style="max-width: 50%;">
@@ -101,6 +101,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align='center'>
-## <b>Ricardo Sanchez✨</b>
+## <b>💻 Ricardo Sanchez ✨</b>
 </div>
 
