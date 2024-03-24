@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <b></b>Sistema de Farmacia.</b><br>
 <div align="center">
   <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/Farmacia%20login.png" style="max-width: 50%;">
-  <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/farmavia%ventas.png" style="max-width: 50%;">
+  <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/farmavia%20ventas.png" style="max-width: 50%;">
    <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/farmacia%20recibo.png" style="max-width: 50%;">
 </div>
 
