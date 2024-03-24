@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Trabajos Realizados </b>
 <br>
 <b></b>Sistema de control de calificaciones.</b><br/>
-<div class="container">
+<div class="container" align="center">
     <div class="row">
         <div class="col-md-6">
             <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
