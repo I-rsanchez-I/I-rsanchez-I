@@ -76,13 +76,14 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Trabajos Realizados </b>
 <br>
 Sistema de control de calificaciones. <br/>
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; text-align: center;">
+<div align='center'>
+    <div class="row">
+      <div>
         <img height="250" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
-    </div>
-    <div style="flex: 1; text-align: center;">
+  </div>
+    <div>
         <img height="250" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 50%;">
-    </div>
+    </div></div>
 </div>
 
 
