@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <img height="250" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 100%;">
+            <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
         </div>
         <div class="col-md-6">
-            <img height="250" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 100%;">
+            <img height="230" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 50%;">
         </div>
     </div>
 </div>
