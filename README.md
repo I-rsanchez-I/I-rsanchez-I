@@ -78,12 +78,13 @@ Here are some ideas to get you started:
 Sistema de control de calificaciones. <br/>
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1; text-align: center;">
-        <img height="200" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="width: 400px;">
+        <img height="250" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/login%20colegio.png" style="max-width: 50%;">
     </div>
     <div style="flex: 1; text-align: center;">
-        <img height="200" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="width: 400px;">
+        <img height="250" src="https://github.com/I-rsanchez-I/I-rsanchez-I/blob/main/Img/sistema%20colegio.png" style="max-width: 50%;">
     </div>
 </div>
+
 
 
 <br>
